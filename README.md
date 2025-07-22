@@ -18,24 +18,16 @@
 
 For any questions, feedback, or contributions, feel free to connect with me:
 
-- **GitHub:** [rst9454](https://github.com/rst9454/)
-- **Facebook:** [sunilpandey9454](https://facebook.com/sunilpandey9454)
-- **LinkedIn:** [sunilpandey9454](https://linkedin.com/in/sunilpandey9454)
-- **Website:** [biharideveloper.com](https://biharideveloper.com)
-- **Instagram:** [sunilpandey9454](https://instagram.com/sunilpandey9454)
+- **GitHub:** [Jayhind-Navik](https://github.com/Jayhind-Navik)
+- **LinkedIn:** [Jayhind Navik](https://www.linkedin.com/in/jayhind-navik-658997214))
 
 ## Getting Started
 
 ### Prerequisites
 
-- [Entity Framework Core](https://docs.microsoft.com/en-us/ef/core/) (version 6.0)
+
 
 ### Installation
-
-1. **Clone the Repository:**
-
-   ```bash
-   git clone https://github.com/rst9454/Generic-Repository-Crud.git
 
 2. **Change the connection string:**
       "ConnectionStrings": {
